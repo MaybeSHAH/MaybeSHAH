@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web development, Games.
 - 🌱 I’m currently learning javascript more deeply.
 - 💞️ I’m looking to collaborate on Web Technologies projects
+- 👾 I'm also interested in native android development with Kotlin.
 - 📫 How to reach me :- liyakatshaikh07@gmail.com || info@maybeshah.tech
 
 <!---
